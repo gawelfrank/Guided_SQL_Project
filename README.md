@@ -8,6 +8,9 @@ The analysis focuses on identifying high-paying Data Analyst roles, determining 
 
 This repository is part of my professional development journey toward becoming a Data Analyst and showcases my SQL querying, analytical thinking, and data exploration skills.
 
+This project builds upon my foundational experience with Power BI by focusing on direct database querying and analysis using SQL, allowing me to work more deeply with structured data.
+
+
 ---
 
 ## Background
